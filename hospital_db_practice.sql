@@ -1,4 +1,7 @@
-
+--Assignment Description
+--In this assignment, you will create a Hospital Management System using PostgreSQL. 
+    --The system will manage patients, doctors, appointments, and prescriptions.
+    --You will also implement triggers to log appointment changes in a separate table.
 
 -- CREATING TABLES
 
